@@ -31,6 +31,7 @@ Python
 Streamlit
 GitHub 
 
-To open this site just click this link below:
+To open this site just click this link below: 👇🏻 
+
 https://applicationapp-cc6vkegvr8sbcvywdezj7j.streamlit.app/
 
