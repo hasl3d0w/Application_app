@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("About Me")
-st.image("images/portfolio.png", width=200)
+st.image("portfolio_app/images", width=200)
 
 st.markdown("""
 <style>
